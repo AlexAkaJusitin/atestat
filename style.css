@@ -158,6 +158,8 @@ a {
 .copyRight {
   position: fixed;
   bottom: 0;
+  right: 0;
+  color: pink;
 }
 .titleDiv {
   position: relative;
